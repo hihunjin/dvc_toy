@@ -1,0 +1,12 @@
+md5: b7a04ec18ea20a1d041fcca5ff16478f
+frozen: true
+deps:
+- path: temp
+  repo:
+    url: https://github.com/hihunjin/dvc_toy
+    rev_lock: 91d8749ad76077edcdb1cd33bddd43a8abcc62da
+outs:
+- md5: 836a457e25f7cdae0a50d98f05b43ec7.dir
+  size: 3531821
+  nfiles: 193
+  path: temp
